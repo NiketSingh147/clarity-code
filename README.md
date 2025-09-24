@@ -80,7 +80,7 @@ def x3a1(v0):
 
 ## 🙏 Contributors
 
-- [Rishi Varshney](https://github.com/Rishivarshney100)
+- [Niket Singh](https://github.com/NiketSingh147)
 
 ---
 
