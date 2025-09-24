@@ -84,12 +84,6 @@ def x3a1(v0):
 
 ---
 
-## ✅ License
-
-This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
-
----
-
 ## 🚀 Let's Connect
 
 If you find this useful or have suggestions, feel free to [open an issue](https://github.com/Rishivarshney100/AI_Code_Obfuscation/issues) or connect via GitHub!
